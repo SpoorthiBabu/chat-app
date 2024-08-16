@@ -1,6 +1,6 @@
 # ArpChat_CPP
 
-A C++ implementation of the ArpChat project originally built in Rust. This project simulates a chat application using ARP (Address Resolution Protocol).
+This project simulates a chat application using ARP (Address Resolution Protocol).
 
 ## Building
 
